@@ -15,26 +15,31 @@ namespace OOP_1
             k.GetArea();
             k.GetCircumference();
             k.GetVolume();
+
+            var t = new Triangle(10);
+            t.GetArea();
+            t.GetCircumference();
+            t.GetVolume();
         }
     }
     class Triangle
     {
-        public int _triangleBen { get; set; }
-        public int _triangleArea { get; set; }
-        public int _triangleCircumference { get; set; }
-        public int _triangleVolume { get; set; }
-        public Triangle(int triangleBen)
+        public float _triangleBen { get; set; }
+        public float _triangleArea { get; set; }
+        public float _triangleCircumference { get; set; }
+        public float _triangleVolume { get; set; }
+        public Triangle(float triangleBen)
         {
             _triangleBen = triangleBen;
         }
         public void GetArea()
         {
-            _triangleArea = (_triangleBen * _triangleBen) * 2;
+            _triangleArea = (_triangleBen * _triangleBen * (float) Math.Sqrt(3)) / 4;
             Console.WriteLine(_triangleArea);
         }
         public void GetCircumference()
         {
-            _triangleCircumference = _triangleArea * 3;
+            _triangleCircumference = _triangleBen * 3;
             Console.WriteLine(_triangleCircumference);
         }
         public void GetVolume()
