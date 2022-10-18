@@ -1,0 +1,14 @@
+C:\Users\maxda\source\repos\OOP 1\bin\Debug\netcoreapp3.1\OOP 1.exe
+C:\Users\maxda\source\repos\OOP 1\bin\Debug\netcoreapp3.1\OOP 1.deps.json
+C:\Users\maxda\source\repos\OOP 1\bin\Debug\netcoreapp3.1\OOP 1.runtimeconfig.json
+C:\Users\maxda\source\repos\OOP 1\bin\Debug\netcoreapp3.1\OOP 1.runtimeconfig.dev.json
+C:\Users\maxda\source\repos\OOP 1\bin\Debug\netcoreapp3.1\OOP 1.dll
+C:\Users\maxda\source\repos\OOP 1\bin\Debug\netcoreapp3.1\OOP 1.pdb
+C:\Users\maxda\source\repos\OOP 1\obj\Debug\netcoreapp3.1\OOP 1.csproj.AssemblyReference.cache
+C:\Users\maxda\source\repos\OOP 1\obj\Debug\netcoreapp3.1\OOP 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxda\source\repos\OOP 1\obj\Debug\netcoreapp3.1\OOP 1.AssemblyInfoInputs.cache
+C:\Users\maxda\source\repos\OOP 1\obj\Debug\netcoreapp3.1\OOP 1.AssemblyInfo.cs
+C:\Users\maxda\source\repos\OOP 1\obj\Debug\netcoreapp3.1\OOP 1.csproj.CoreCompileInputs.cache
+C:\Users\maxda\source\repos\OOP 1\obj\Debug\netcoreapp3.1\OOP 1.dll
+C:\Users\maxda\source\repos\OOP 1\obj\Debug\netcoreapp3.1\OOP 1.pdb
+C:\Users\maxda\source\repos\OOP 1\obj\Debug\netcoreapp3.1\OOP 1.genruntimeconfig.cache
