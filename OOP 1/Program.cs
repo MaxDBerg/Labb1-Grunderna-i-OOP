@@ -35,17 +35,17 @@ namespace OOP_1
         public void GetArea()
         {
             _triangleArea = (_triangleBen * _triangleBen * (float) Math.Sqrt(3)) / 4;
-            Console.WriteLine(_triangleArea);
+            Console.WriteLine("Triangle area: {0}", _triangleArea);
         }
         public void GetCircumference()
         {
             _triangleCircumference = _triangleBen * 3;
-            Console.WriteLine(_triangleCircumference);
+            Console.WriteLine("Triangle circumference: {0}", _triangleCircumference);
         }
         public void GetVolume()
         {
             _triangleVolume = ((_triangleBen * _triangleBen) * _triangleBen) / 3;
-            Console.WriteLine(_triangleVolume);
+            Console.WriteLine("Pyramid Volume: {0}", _triangleVolume);
         }
     }
     class Circle
@@ -63,17 +63,17 @@ namespace OOP_1
         public void GetArea()
         {
             _area = (float)_radius * (float)_radius *_pi;
-            Console.WriteLine(_area);
+            Console.WriteLine("Circle area {0}", _area);
         }
         public void GetCircumference()
         {
             _circumference = 2 *_pi * (float)_radius;
-            Console.WriteLine(_circumference);
+            Console.WriteLine("Circle circumference: {0}", _circumference);
         }
         public void GetVolume()
         {
             _volume = (4 * _pi * (float) Math.Pow((double)_radius, 3)) / 3;
-            Console.WriteLine(_volume);
+            Console.WriteLine("Sphere volume: {0}", _volume);
         }
 
     }
